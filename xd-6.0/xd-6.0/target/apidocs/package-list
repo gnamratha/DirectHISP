@@ -1,0 +1,9 @@
+com.gsihealth.auditclient
+com.gsihealth.auditclient.type
+org.nhind.xdm
+org.nhind.xdm.boot
+org.nhind.xdm.impl
+org.nhind.xdm.springconfig
+org.nhind.xdr
+org.nhind.xdr.config
+org.xml.xml.schema._7f0d86bd.healthcare_security_audit

@@ -1,0 +1,6 @@
+org\nhind\xd\TestApplication.class
+org\nhind\james\mailet\NHINDMailetTest$MockMail.class
+org\nhind\xd\streams\processors\XDRemoteDeliveryProcessorTest.class
+org\nhind\testutils\MockMailetConfig.class
+org\nhind\james\mailet\NHINDMailetTest.class
+org\nhind\xd\SpringBaseTest.class

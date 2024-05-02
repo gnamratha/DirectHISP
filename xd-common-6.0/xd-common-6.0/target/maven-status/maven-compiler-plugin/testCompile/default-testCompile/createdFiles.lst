@@ -1,0 +1,16 @@
+org\nhindirect\xd\common\DirectDocument2Test.class
+org\nhindirect\xd\transform\util\MimeTypeTest.class
+org\nhindirect\xd\transform\pojo\SimplePersonTest.class
+org\nhindirect\xd\transform\util\XmlUtilsTest.class
+org\nhindirect\xd\transform\impl\DefaultXdsXdmTransformerTest.class
+org\nhindirect\xd\common\SpringBaseTest.class
+org\nhindirect\xd\common\XdmPackageTest.class
+org\nhindirect\xd\common\DirectDocumentsTest.class
+org\nhindirect\xd\soap\DirectSOAPHandlerResolverTest.class
+org\nhindirect\xd\soap\ThreadDataTest.class
+org\nhindirect\xd\transform\impl\DefaultMimeXdsTransformerTest.class
+org\nhindirect\xd\soap\DirectSOAPHandlerTest.class
+org\nhindirect\xd\transform\impl\DefaultXdmXdsTransformerTest.class
+org\nhindirect\xd\transform\util\XslConversionTest.class
+org\nhindirect\xd\routing\impl\RoutingResolverImplTest.class
+org\nhindirect\xd\common\TestApplication.class

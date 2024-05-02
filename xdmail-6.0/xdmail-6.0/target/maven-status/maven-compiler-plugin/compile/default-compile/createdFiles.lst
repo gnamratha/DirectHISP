@@ -1,0 +1,12 @@
+org\nhind\james\matcher\RecipientIsLocalAndSMTPAuthUserIs.class
+org\nhind\xd\streams\processors\XDRemoteDeliveryProcessor.class
+org\nhind\mail\service\XDDeliveryCore.class
+org\nhind\xd\streams\XDRemoteDeliveryInput.class
+org\nhind\james\mailet\package-info.class
+org\nhind\mail\service\XDDeliveryCallback.class
+org\nhind\mail\service\package-info.class
+org\nhind\james\mailet\DirectXdMailet.class
+org\nhind\james\matcher\RecipientIsXdAndNotSMIME.class
+org\nhind\mail\service\DocumentRepository.class
+org\nhind\xd\springconfig\XDDeliveryConfig.class
+org\nhind\james\matcher\RecipientIsNotXd.class

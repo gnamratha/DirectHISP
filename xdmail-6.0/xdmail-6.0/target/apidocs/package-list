@@ -1,0 +1,6 @@
+org.nhind.james.mailet
+org.nhind.james.matcher
+org.nhind.mail.service
+org.nhind.xd.springconfig
+org.nhind.xd.streams
+org.nhind.xd.streams.processors
